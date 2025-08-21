@@ -39,7 +39,7 @@
 </a>
 
 ---
-
+<!--
 <h3 align="left"> 📂 Organization repositories </h3>
 <div align="left">
   <ol>
@@ -62,6 +62,7 @@
 </div>
 
 ###
+-->
 
 <!--
 - 🔭 I’m currently working on ...
